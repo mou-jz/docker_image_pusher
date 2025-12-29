@@ -1,7 +1,8 @@
 #mysql:8.4.6
 #nginx:1.28
 #redis:8.2.2
-nacos/nacos-server:v3.1.1
+postgres:17.7
+#nacos/nacos-server:v3.1.1
 #nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
